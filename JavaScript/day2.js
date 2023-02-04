@@ -10,7 +10,7 @@ const v = getMessage();         //Function Calling
 
 // Adding Two Variables
 
-add throw(2);                   // Defined Number
+addtwo(2);                   // Defined Number
 function TwoSum(input){             
     const output = input+2;     //Function to add
     return output;
