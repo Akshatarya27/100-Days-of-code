@@ -18,3 +18,13 @@ function TwoSum(input){
 }
 
 
+//Multiply 
+
+const a = 2;
+const b = a*3;
+
+function product(a,b){
+    return a*b;
+}
+
+
